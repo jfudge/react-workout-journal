@@ -1,6 +1,6 @@
 Keeps a record of workout exercises and users. Fullstack app built with MongoDB, Express, React, Node.js, and Mongoose.
 
-![Alt text](screen.png?raw=true)
+!(screen.png?raw=true)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
