@@ -1,6 +1,6 @@
 Keeps a record of workout exercises and users. Fullstack app built with MongoDB, Express, React, Node.js, and Mongoose.
 
-!(screen.png?raw=true)
+!(https://github.com/jfudge/react-workout-logger/screen.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
